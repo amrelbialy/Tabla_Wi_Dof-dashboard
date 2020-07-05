@@ -1,0 +1,32 @@
+*,
+*::after,
+*::before {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box; }
+
+html {
+  font-size: 100%; }
+
+body {
+  box-sizing: border-box;
+  padding: 5rem; }
+
+.card {
+  width: 87rem; }
+
+.modal-title {
+  font-size: 2.5rem; }
+
+.modal-body {
+  font-size: 2rem; }
+
+.close span {
+  font-size: 3rem; }
+
+.spinner-border {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  width: 6rem;
+  height: 6rem; }
